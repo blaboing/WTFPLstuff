@@ -1,2 +1,2 @@
 # WTFPLstuff
-stuff I made licensed with WTFPL 2.0
+stuff I made and uploaded here is licensed under the WTFPL 2.0 license
